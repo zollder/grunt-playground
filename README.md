@@ -1,5 +1,5 @@
 # grunt-playground
 Grunt playground  sample project
 Run:
-bower install
-grunt
+1. bower install
+2. grunt
